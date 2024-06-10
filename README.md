@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Mobile App development project (SwiftUI)</b>
-  - [Mastermind](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Mastermind](https://github.com/jrholt04/MasterMindGame)
 
 <h2> 🤳 Connect with me:</h2>
 
