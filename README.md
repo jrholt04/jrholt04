@@ -5,6 +5,9 @@
 - <b>Mobile App development project (SwiftUI)</b>
   - [Mastermind](https://github.com/jrholt04/MasterMindGame)
 
+- <b>Simple Portfolio</b>
+  - [Portfolio](https://github.com/jrholt04/minimalPortfolio)
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
