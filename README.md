@@ -10,6 +10,9 @@
  
 - <b>Merge That Sort (MIPS)</b>
   - [MergeSort](https://github.com/jrholt04/MergeThatSort)
+ 
+- <b>Dijkstra's Algorithm</b>
+  - [MergeSort](https://github.com/jrholt04/ShortestPathToACity)
 
 <h2> 🤳 Connect with me:</h2>
 
