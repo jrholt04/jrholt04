@@ -7,6 +7,9 @@
 
 - <b>Simple Portfolio</b>
   - [Portfolio](https://github.com/jrholt04/minimalPortfolio)
+ 
+- <b>Merge That Sort (MIPS)</b>
+  - [MergeSort]([https://github.com/jrholt04/minimalPortfolio](https://github.com/jrholt04/MergeThatSort))
 
 <h2> 🤳 Connect with me:</h2>
 
