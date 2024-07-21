@@ -5,6 +5,9 @@
 - <b>Mobile App development project (SwiftUI)</b>
   - [Mastermind](https://github.com/jrholt04/MasterMindGame)
 
+- <b>Advent Email Insight</b>
+  - [AEI](https://github.com/jrholt04/AdventEmailInsight)
+
 - <b>Simple Portfolio</b>
   - [Portfolio](https://github.com/jrholt04/minimalPortfolio)
  
