@@ -8,8 +8,8 @@
 - <b>Advent Email Insight</b>
   - [AEI](https://github.com/jrholt04/AdventEmailInsight)
 
-- <b>Simple Portfolio</b>
-  - [Portfolio](https://github.com/jrholt04/minimalPortfolio)
+- <b>Minimal Weather App</b>
+  - [Rain Rain Go Away](https://github.com/jrholt04/weatherApp)
  
 - <b>Merge That Sort (MIPS)</b>
   - [MergeSort](https://github.com/jrholt04/MergeThatSort)
