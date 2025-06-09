@@ -18,7 +18,7 @@
   - [Dijkstra's alg](https://github.com/jrholt04/ShortestPathToACity)
 
 - <b>Titanic DBMS (SQL, Ruby, HTML, CSS)</b>
-  - [Titanic](https://github.com/jrholt04/Titanic-DBMS)
+  - [Titanic DBMS](https://github.com/jrholt04/Titanic-DBMS)
 
 <h2> 🤳 Connect with me:</h2>
 
