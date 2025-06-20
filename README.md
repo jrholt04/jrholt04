@@ -20,6 +20,9 @@
 - <b>Titanic DBMS (SQL, Ruby, HTML, CSS)</b>
   - [Titanic DBMS](https://github.com/jrholt04/Titanic-DBMS)
 
+- <b>Furhat Emotions</b>
+  - [Furhat Emotions](https://github.com/jrholt04/FurhatEmotions)
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
