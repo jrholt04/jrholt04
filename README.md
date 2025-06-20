@@ -20,7 +20,7 @@
 - <b>Titanic DBMS (SQL, Ruby, HTML, CSS)</b>
   - [Titanic DBMS](https://github.com/jrholt04/Titanic-DBMS)
 
-- <b>Furhat Emotions</b>
+- <b>Furhat Emotions (in progress)</b>
   - [Furhat Emotions](https://github.com/jrholt04/FurhatEmotion)
 
 <h2> 🤳 Connect with me:</h2>
