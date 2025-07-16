@@ -13,9 +13,6 @@
  
 - <b>Merge That Sort (MIPS)</b>
   - [MergeSort](https://github.com/jrholt04/MergeThatSort)
- 
-- <b>Dijkstra's Algorithm</b>
-  - [Dijkstra's alg](https://github.com/jrholt04/ShortestPathToACity)
 
 - <b>Titanic DBMS (SQL, Ruby, HTML, CSS)</b>
   - [Titanic DBMS](https://github.com/jrholt04/Titanic-DBMS)
