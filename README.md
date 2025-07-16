@@ -5,10 +5,10 @@
 - <b>Mobile App development project (SwiftUI)</b>
   - [Mastermind](https://github.com/jrholt04/MasterMindGame)
 
-- <b>Advent Email Insight</b>
+- <b>Advent Email Insight(C#, Razor Pages)</b>
   - [AEI](https://github.com/jrholt04/AdventEmailInsight)
 
-- <b>Minimal Weather App</b>
+- <b>Minimal Weather App(React, Tailwind, HTMl)</b>
   - [Rain Rain Go Away](https://github.com/jrholt04/weatherApp)
  
 - <b>Merge That Sort (MIPS)</b>
@@ -22,8 +22,8 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="JacksonHolt | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JacksonHolt | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [instagram]: https://www.instagram.com/jrholt04/
 [linkedin]: https://www.linkedin.com/in/jackson-holt-214618264
