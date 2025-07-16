@@ -20,6 +20,8 @@
 - <b>Furhat Emotions (in progress)</b>
   - [Furhat Emotions](https://github.com/jrholt04/FurhatEmotion)
 
+<h2><a href="https://buymeacoffee.com/jacksonholt" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a></h2>
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JacksonHolt | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
