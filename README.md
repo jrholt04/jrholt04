@@ -20,7 +20,7 @@
 - <b>Furhat Emotions (in progress)</b>
   - [Furhat Emotions](https://github.com/jrholt04/FurhatEmotion)
 
-<h2><a href="https://buymeacoffee.com/jacksonholt" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" width="150" ></a></h2>
+<h2><a href="https://buymeacoffee.com/jacksonholt" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-black.png" alt="Buy Me A Coffee" width="150" ></a></h2>
 
 
 <!--- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jrholt04&show_icons=true&theme=gotham" alt="jrholt04" /> --->
