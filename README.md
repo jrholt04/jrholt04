@@ -2,6 +2,9 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- <b>Furhat Emotions</b>
+  - [Furhat Emotions](https://github.com/jrholt04/FurhatEmotion)
+
 - <b>Mobile App development project (SwiftUI)</b>
   - [Mastermind](https://github.com/jrholt04/MasterMindGame)
 
@@ -17,8 +20,7 @@
 - <b>Titanic DBMS (SQL, Ruby, HTML, CSS)</b>
   - [Titanic DBMS](https://github.com/jrholt04/Titanic-DBMS)
 
-- <b>Furhat Emotions (in progress)</b>
-  - [Furhat Emotions](https://github.com/jrholt04/FurhatEmotion)
+
 
 <h2><a href="https://buymeacoffee.com/jacksonholt" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a></h2>
 
