@@ -5,6 +5,9 @@
 - <b>Furhat Emotions</b>
   - [Furhat Emotions](https://github.com/jrholt04/FurhatEmotion)
 
+- <b>Titanic DBMS (SQL, Ruby, HTML, CSS)</b>
+  - [Titanic DBMS](https://github.com/jrholt04/Titanic-DBMS)
+  
 - <b>Mobile App development project (SwiftUI)</b>
   - [Mastermind](https://github.com/jrholt04/MasterMindGame)
 
@@ -17,8 +20,7 @@
 - <b>Merge That Sort (MIPS)</b>
   - [MergeSort](https://github.com/jrholt04/MergeThatSort)
 
-- <b>Titanic DBMS (SQL, Ruby, HTML, CSS)</b>
-  - [Titanic DBMS](https://github.com/jrholt04/Titanic-DBMS)
+
 
 
 
