@@ -13,9 +13,6 @@
 
 - <b>Advent Email Insight(C#, Razor Pages)</b>
   - [AEI](https://github.com/jrholt04/AdventEmailInsight)
-
-- <b>Minimal Weather App(React, Tailwind, HTMl)</b>
-  - [Rain Rain Go Away](https://github.com/jrholt04/weatherApp)
  
 - <b>Merge That Sort (MIPS)</b>
   - [MergeSort](https://github.com/jrholt04/MergeThatSort)
