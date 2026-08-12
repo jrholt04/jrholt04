@@ -20,8 +20,9 @@
 
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jrholt04&show_icons=true&theme=gotham" alt="jrholt04" />
-
+<p align="center">
+  <img src="https://github-readme-stats-rickstaa.vercel.app/api?username=jrholt04&show_icons=true&theme=gotham" alt="jrholt04" />
+</p>
 
 <h2> 🤳 Connect with me:</h2>
 
