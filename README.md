@@ -7,16 +7,6 @@
 
 - <b>Icarus(SQL, Ruby, HTML, CSS)</b>
   - [Icarus](https://github.com/jrholt04/Icarus)
-  
-- <b>Mobile App development project (SwiftUI)</b>
-  - [Mastermind](https://github.com/jrholt04/MasterMindGame)
-
-- <b>Advent Email Insight(C#, Razor Pages)</b>
-  - [AEI](https://github.com/jrholt04/AdventEmailInsight)
- 
-- <b>Merge That Sort (MIPS)</b>
-  - [MergeSort](https://github.com/jrholt04/MergeThatSort)
-
 
 
 
