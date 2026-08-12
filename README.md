@@ -5,8 +5,8 @@
 - <b>Furhat Emotions</b>
   - [Furhat Emotions](https://github.com/jrholt04/FurhatEmotion)
 
-- <b>Titanic DBMS (SQL, Ruby, HTML, CSS)</b>
-  - [Titanic DBMS](https://github.com/jrholt04/Titanic-DBMS)
+- <b>Icarus(SQL, Ruby, HTML, CSS)</b>
+  - [Icarus](https://github.com/jrholt04/Icarus)
   
 - <b>Mobile App development project (SwiftUI)</b>
   - [Mastermind](https://github.com/jrholt04/MasterMindGame)
