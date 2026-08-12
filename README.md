@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jackson <br/><a href="https://github.com/jrholt04">Programmer</a>, <a href="https://www.linkedin.com/in/jackson-holt-214618264">Student at Transylvania University</h1>
+<h1>Hi, I'm Jackson <br/><a href="https://github.com/jrholt04">Software Solution Analyst</a>, <a href="https://www.linkedin.com/in/jackson-holt-214618264">Student at Transylvania University</h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
